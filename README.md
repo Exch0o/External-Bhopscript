@@ -4,4 +4,4 @@ USE AT YOUR OWN RISK
 This is not VAC detected but you may get overwatch banned. 
 As before mentioned this is an External script meaning it does not affect the game's memory.
 Also dont use this on valorant 
-you can't even bhop in the shit game
+
